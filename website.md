@@ -12,3 +12,7 @@ https://github.com/SperkJJ/ThinkPHP5
 https://github.com/Leslin/thinkphp5-restfulapi
 Dolohin
 TpSHOP
+
+## 手册 ##
+http://jquery.cuishifeng.cn/
+http://www.cmstop.com/help/

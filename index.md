@@ -10,6 +10,7 @@
 - [后台使用手册](http://doc.cmstop.com/help/)
 - [模板制作手册](http://doc.cmstop.com/template/)
 - [二次开发手册](http://doc.cmstop.com/develop/)
+- [PHP在线解密](http://dezend.qiling.org/free/)
 
 ## TODO LIST ##
 - [work](./work)
